@@ -24,14 +24,4 @@ class Solution(object):
                             counts[i] -= 1
                             break
                         
-            return max(counts)
-
-            
-               
-            
-               
-
-
-
-
-            
+            return max(counts)          
